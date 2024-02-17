@@ -1,2 +1,2 @@
-# VTYS
-Veri Tabanı Yönetim Sistemi Dersi Ödevleri
+# Veri Tabanı Yönetim Sistemi
+Veri Tabanı Yönetim Sistemi Dersinde Yapılan Uygulamaları İçerir.
