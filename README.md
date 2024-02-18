@@ -1,2 +1,2 @@
 # Veri Tabanı Yönetim Sistemi
-Veri Tabanı Yönetim Sistemi Dersinde Yapılan Uygulamaları İçerir.
+Veri tabanı yönetim sistemi dersinde yapılan uygulamaları içerir.
