@@ -2,4 +2,4 @@
 Veri tabanı yönetim sistemi dersinde yapılan uygulamaları içerir.
 
 ## Kullanılan Dil
-Bu proje SQL kullanılarak geliştirilmiştir.
+Bu proje SQL Server kullanılarak geliştirilmiştir.
